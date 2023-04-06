@@ -1,0 +1,27 @@
+.navbar{
+    width: 100vw;
+    height: 10vh ;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 40%;
+    text-align: center;
+    
+    
+}
+.nav-link{
+width: 60%;
+display: flex;
+list-style: none;
+padding-left: 400px;
+}
+.li{
+    margin: 20px;
+}
+.btn{
+   width: 20px auto;
+   margin: 20px ;
+}
